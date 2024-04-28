@@ -52,6 +52,9 @@ This project is a Fees Management System developed in Java using NetBeans IDE an
 
 ## Technologies Used
 
-- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java Logo" width="100" height="100"> **Java**: Core programming language used for development.
-- ![NetBeans Logo](https://example.com/netbeans_logo.png) **NetBeans IDE**: Integrated Development Environment used for coding and project management.
-- ![Derby Logo](https://example.com/derby_logo.png) **Derby Database**: Embedded relational database for storing student and fee data.
+- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/200px-Java_programming_language_logo.svg.png" alt="Java Logo" width="100" height="100"> **Java**: Core programming language used for development.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/200px-Apache_NetBeans_Logo.svg.png" alt="NetBeans Logo" width="100" height="100"> **NetBeans IDE**: Integrated Development Environment used for coding and project management.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Apache_Derby_logo.svg/200px-Apache_Derby_logo.svg.png" alt="Derby Logo" width="100" height="100"> **Derby Database**: Embedded relational database for storing student and fee data.
+
+
+
